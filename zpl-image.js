@@ -1,4 +1,4 @@
-const pako = require("./pako.js)
+const pako = require("./pako.js");
 (function (root, factory) {
     if (typeof define === 'function' && define.amd) {
         define([], factory);
